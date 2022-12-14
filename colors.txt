@@ -3,3 +3,6 @@ orange
 blue
 pink
 red
+GRAY
+VIOLET
+BROWN

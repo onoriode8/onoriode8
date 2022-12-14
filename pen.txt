@@ -1,2 +1,5 @@
 biro
 pencil
+RULER
+MASET
+ERASER
