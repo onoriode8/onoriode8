@@ -4,6 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onoriode8&langs_count=8)](https://github.com/onoriode8/github-readme-stats)
 
+### Tech Skills
+
+NodeJs     MongoDB     Git     GitKraken      Postman 
+Express    Firebase    Redux   React-Hooks    ReactJs
+Netlify and little knowledge of Java  &  Python programming language.
 <!--
 **onoriode8/onoriode8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
