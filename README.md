@@ -1,8 +1,8 @@
 # Hi there, I'm Onoriode 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8)](https://github.com/onoriode8/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onoriode8&layout=compact)](https://github.com/onoriode8/github-readme-stats)
 
 <!--
 **onoriode8/onoriode8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
