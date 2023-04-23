@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onoriode8&langs_count=8)](https://github.com/onoriode8/github-readme-stats)
 
-### Tech Skills
+### 💻 Tech Stack
 
 NodeJs     MongoDB     Git     GitKraken      Postman 
 Express    Firebase    Redux   React-Hooks    ReactJs
