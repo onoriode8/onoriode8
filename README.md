@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8)](https://github.com/onoriode8/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
+
 <!--
 **onoriode8/onoriode8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
