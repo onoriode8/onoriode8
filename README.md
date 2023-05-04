@@ -7,16 +7,16 @@
 
 ### 💻 Tech Stack
 
-NodeJs     MongoDB     Git     GitKraken      Postman 
-Express    Firebase    Redux   React-Hooks    ReactJs
-Netlify and little knowledge of Java  &  Python programming language.
+(1) NodeJs     (2) MongoDB     (3) Git &  GitKraken (4) Postman 
+(5) Express    (6) Firebase   (7) Redux (8) React-Hooks &&  ReactJs
+(9) Netlify and little knowledge of Python programming language.
 
 
 ##### Programming Language used
 <img src="https://camo.githubusercontent.com/897f3b4578186b772a823a7bcbc7253af04106d9effe4edd11c2c45e5b4eb0b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6666666666663f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666164363364" />
 
 #### Front-End Stack
-HTML 5  CSS 3  ReactJs  REACT-HOOKS  REDUX
+1) HTML 5  (2) CSS 3  (3) ReactJs & REACT-HOOKS  (4) REDUX
 
 ##### 💻 Backend Stack
 <img src="https://camo.githubusercontent.com/95dfec02afff6b4f7568470074415256eba3664a700d1ad9326ef87d6ce3b154/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d6666666666663f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" /> 
