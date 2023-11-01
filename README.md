@@ -8,8 +8,8 @@
 ### 💻 Tech Stack
 
 (1) NodeJs     (2) MongoDB     (3) Git &  GitKraken (4) Postman 
-(5) Express    (6) Firebase   (7) Redux (8) React-Hooks &&  ReactJs
-(9) Netlify and little knowledge of Python programming language.
+(5) Express    (6) Firebase   (7) Redux (8) React-Hooks &  ReactJs
+(9) Hosting providers i.e Netlify and render
 
 #### Build Tool
 Webpack
