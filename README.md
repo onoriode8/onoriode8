@@ -11,6 +11,8 @@
 (5) Express    (6) Firebase   (7) Redux (8) React-Hooks &&  ReactJs
 (9) Netlify and little knowledge of Python programming language.
 
+#### Build Tool
+Webpack
 
 ##### Programming Language used
 <img src="https://camo.githubusercontent.com/897f3b4578186b772a823a7bcbc7253af04106d9effe4edd11c2c45e5b4eb0b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6666666666663f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666164363364" />
