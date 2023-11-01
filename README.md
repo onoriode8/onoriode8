@@ -1,6 +1,6 @@
 ### Hi there, I'm Onoriode 👋
 #### I'm a Full stack mern developer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs |
-#### and 1 year experience in freelancing with mern stack technology.
+#### and professional experience building scalable, flexible and maintainable software products.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onoriode8&langs_count=8)](https://github.com/onoriode8/github-readme-stats)
