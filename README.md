@@ -1,5 +1,5 @@
 ### Hi there, I'm Onoriode 👋
-#### I'm a backend software developer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs |
+#### I'm a software developer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs |
 #### and professional experience building scalable, flexible and maintainable software products.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
 
