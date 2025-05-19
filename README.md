@@ -1,5 +1,5 @@
 ### Hi there, I'm Onoriode 👋
-#### I'm a Full Stack Engineer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs |
+#### I'm a Full Stack Engineer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs | Socket.io 
 #### and professional experience building scalable, flexible and maintainable software products.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
 
@@ -9,7 +9,8 @@
 
 (1) NodeJs     (2) MongoDB     (3) Git &  GitKraken (4) Postman 
 (5) Express    (6) Firebase   (7) Redux (8) React-Hooks &  ReactJs
-(9) Hosting providers i.e Netlify and render
+(9) Socket.io
+(10) Hosting providers i.e Netlify and render
 
 #### Build Tool
 Webpack
@@ -25,13 +26,12 @@ TypeScript
 1) HTML 5  (2) CSS 3  (3) ReactJs & REACT-HOOKS  (4) REDUX (5) Tailwindcss
 
 ##### 💻 Backend Stack
-NodeJs 
-
+NodeJs & JavaScript
 <img src="https://camo.githubusercontent.com/95dfec02afff6b4f7568470074415256eba3664a700d1ad9326ef87d6ce3b154/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d6666666666663f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" /> 
 
 
 ##### 🛢 DataBase 
-MongoDB
+MongoDB & MongoDB shell
 
 <img src="https://camo.githubusercontent.com/984980f5ad86ee1c7e787b3cc6896bf6d4c8d7c3d1ba8caee28ce9818c43febb/68747470733a2f2f736869656c64732e696f2f62616467652f2d4d6f6e676f44422d6666666666663f7374796c653d666c6174266c6f676f3d6d6f6e676f6462" />
 
