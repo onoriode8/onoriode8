@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onoriode8&langs_count=8)](https://github.com/onoriode8/github-readme-stats)
 
-### 💻 Tech Stack
+## 💻 TECH STACK
 
 NodeJs | MongoDB | Git &  GitKraken | Postman | Express | Redux | ReactJs | Socket.io | Graphql |
 Hosting providers i.e Netlify and render
@@ -14,30 +14,26 @@ Hosting providers i.e Netlify and render
 ![download](https://github.com/user-attachments/assets/bd78818c-8c50-4dfd-909c-e27b80c2acef)
 #### Graphql
 
-##### Programming Language used
+## PROGRAMMING LANGUAGE USE
 
 ![OIP](https://github.com/user-attachments/assets/1687b3b1-1769-45dd-8d3a-170ea7d59f8b)
-JavaScript 
+##### JavaScript 
 
 ![download](https://github.com/user-attachments/assets/6c92c7cc-1730-46c6-a3b1-765827385970)
-TypeScript
+##### TypeScript
 
 <img src="https://camo.githubusercontent.com/897f3b4578186b772a823a7bcbc7253af04106d9effe4edd11c2c45e5b4eb0b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6666666666663f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666164363364" />
 
-##### 💻 Backend Stack
-![download](https://github.com/user-attachments/assets/a5a0d3dd-8a27-4072-9f75-82ff666c8624)
+## 💻 BACKEND STACK
 
+![download](https://github.com/user-attachments/assets/a5a0d3dd-8a27-4072-9f75-82ff666c8624)
 ##### NodeJs 
 
 ![download](https://github.com/user-attachments/assets/2703a4ef-489c-4f6a-9b02-0b0ad49e79b8)
-
 ##### JavaScript
 
-##### 🛢 DataBase 
-
+## 🛢 DATABASE
 ![images](https://github.com/user-attachments/assets/e62f9017-f28f-4984-b071-97b47e4ae745)
-
-
 ##### MongoDB 
 
 
