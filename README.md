@@ -27,18 +27,23 @@ TypeScript
 
 ##### 💻 Backend Stack
 ![download](https://github.com/user-attachments/assets/a5a0d3dd-8a27-4072-9f75-82ff666c8624)
-NodeJs 
+
+##### NodeJs 
 
 ![download](https://github.com/user-attachments/assets/2703a4ef-489c-4f6a-9b02-0b0ad49e79b8)
-JavaScript
+
+##### JavaScript
 
 ##### 🛢 DataBase 
 ![images](https://github.com/user-attachments/assets/e62f9017-f28f-4984-b071-97b47e4ae745)
-MongoDB & MongoDB shell
+
+
+##### MongoDB & MongoDB shell
 
 
 ##### ⚙ Version control
-Git & Github
+
+##### Git & Github
 
 <img align="left"  src="https://camo.githubusercontent.com/bbff099678bcfdb5b500f5507b1cd6d0361420a296ba883278aa8e61ccb34fc0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d6666666666663f7374796c653d666c6174266c6f676f3d676974" />
 <img align="left"  src="https://camo.githubusercontent.com/e826bd9cd444c60184f0943ce9e72e4e5c13d4a500c240f54650312ecca89a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d6666666666663f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d303030303030" />
