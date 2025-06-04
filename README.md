@@ -7,13 +7,12 @@
 
 ### 💻 Tech Stack
 
-(1) NodeJs     (2) MongoDB     (3) Git &  GitKraken (4) Postman 
-(5) Express    (6) Firebase   (7) Redux (8) React-Hooks &  ReactJs
-(9) Socket.io
-(10) Hosting providers i.e Netlify and render
+NodeJs | MongoDB | Git &  GitKraken | Postman | Express | Redux | ReactJs | Socket.io | Graphql
+Hosting providers i.e Netlify and render
 
-#### Build Tool
-Webpack
+
+![download](https://github.com/user-attachments/assets/bd78818c-8c50-4dfd-909c-e27b80c2acef)
+#### Graphql
 
 ##### Programming Language used
 JavaScript 
