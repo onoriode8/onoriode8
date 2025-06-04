@@ -43,6 +43,7 @@ TypeScript
 
 ##### ⚙ Version control
 
+![OIP](https://github.com/user-attachments/assets/5a5b79a0-0490-4b99-b6f2-5fd005aecc6f)
 ##### Git & Github
 
 <img align="left"  src="https://camo.githubusercontent.com/bbff099678bcfdb5b500f5507b1cd6d0361420a296ba883278aa8e61ccb34fc0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d6666666666663f7374796c653d666c6174266c6f676f3d676974" />
