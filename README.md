@@ -33,8 +33,8 @@ NodeJs
 JavaScript
 
 ##### 🛢 DataBase 
-MongoDB & MongoDB shell
 ![images](https://github.com/user-attachments/assets/e62f9017-f28f-4984-b071-97b47e4ae745)
+MongoDB & MongoDB shell
 
 
 ##### ⚙ Version control
