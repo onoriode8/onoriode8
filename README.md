@@ -1,5 +1,7 @@
-### Hi there, I'm Onoriode 👋
-#### A NodeJs Developer with over 2 years of experience building scalable, ready and production application with Mongodb | ExpressJS | NodeJs | Socket.io | Graphql | MySQL and also skilled on the Frontend with ReactJs and professional experience building scalable, flexible and maintainable software products.
+##### Hi there, I'm Onoriode 👋
+A NodeJs Developer with over 2 years of experience building scalable, ready and production 
+application with Mongodb | ExpressJS | NodeJs | Socket.io | Graphql | MySQL and also skilled on 
+the Frontend with ReactJs and professional experience building scalable, flexible and maintainable software products.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
 
