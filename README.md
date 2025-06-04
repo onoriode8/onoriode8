@@ -1,5 +1,5 @@
 ### Hi there, I'm Onoriode 👋
-#### I'm a Full Stack Engineer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs | Socket.io 
+#### I'm a Full Stack Engineer with over 2 years of experience with Mongodb | Express JS | ReactJs | NodeJs | Socket.io | Graphql | MySQL
 #### and professional experience building scalable, flexible and maintainable software products.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoriode8&show_icons=true)
 
@@ -7,7 +7,7 @@
 
 ### 💻 Tech Stack
 
-NodeJs | MongoDB | Git &  GitKraken | Postman | Express | Redux | ReactJs | Socket.io | Graphql
+NodeJs | MongoDB | Git &  GitKraken | Postman | Express | Redux | ReactJs | Socket.io | Graphql |
 Hosting providers i.e Netlify and render
 
 
@@ -15,14 +15,14 @@ Hosting providers i.e Netlify and render
 #### Graphql
 
 ##### Programming Language used
+
+![OIP](https://github.com/user-attachments/assets/1687b3b1-1769-45dd-8d3a-170ea7d59f8b)
 JavaScript 
 
+![download](https://github.com/user-attachments/assets/6c92c7cc-1730-46c6-a3b1-765827385970)
 TypeScript
 
 <img src="https://camo.githubusercontent.com/897f3b4578186b772a823a7bcbc7253af04106d9effe4edd11c2c45e5b4eb0b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6666666666663f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666164363364" />
-
-#### Front-End Stack
-1) HTML 5  (2) CSS 3  (3) ReactJs & REACT-HOOKS  (4) REDUX (5) Tailwindcss
 
 ##### 💻 Backend Stack
 ![download](https://github.com/user-attachments/assets/a5a0d3dd-8a27-4072-9f75-82ff666c8624)
@@ -34,11 +34,15 @@ TypeScript
 ##### JavaScript
 
 ##### 🛢 DataBase 
+
 ![images](https://github.com/user-attachments/assets/e62f9017-f28f-4984-b071-97b47e4ae745)
 
 
-##### MongoDB & MongoDB shell
+##### MongoDB 
 
+
+![OIP](https://github.com/user-attachments/assets/0aaffabc-c76d-446c-9fdb-090c2ca963e7)
+##### MySQL
 
 ##### ⚙ Version control
 
