@@ -1,5 +1,5 @@
 ##### Hi there, I'm Onoriode 👋
-A junior AI-Augmented Engineer | LLM | LangChain.js | Vector DBs | HuggingFace | Github Copilot | ChatGPT | OpenAI | RAG |
+An AI-Augmented Engineer | LLM | LangChain.js | Vector DBs | HuggingFace | Github Copilot | ChatGPT | OpenAI | RAG |
 I can integrate LLMs into apps, speed up DevOps with AI workflows, and build with copilots and agents like they’re teammates, also 
 A NodeJs Developer with over 2 years of experience building scalable, ready and production 
 application with Mongodb | ExpressJS | NodeJs | Socket.io | Graphql | MySQL | PostgreSQL and also skilled on 
